@@ -1,7 +1,7 @@
 {
   "name": "p5ts-template",
   "author": "ix-s9y",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "start": "parcel ./src/index.html -d ./dist/"
   },
